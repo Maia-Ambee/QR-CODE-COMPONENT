@@ -1,0 +1,47 @@
+body {
+  background-color: #d5e1ef;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div {
+  width: 20rem;
+  height: 31.063rem;
+  background-color: white;
+  border-radius: 1.25rem;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 1rem;
+}
+
+.heading {
+  color: #1f314f;
+  font-family: outfit;
+  font-style: normal;
+  font-size: 1.375rem;
+  text-align: center;
+  font-weight: 700;
+  line-height: 1.75rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+p {
+  font-family: Outfit, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.938rem;
+  line-height: 1.188rem;
+  text-align: center;
+  letter-spacing: 0.012rem;
+  color: #7d889e;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 2.5rem;
+}
